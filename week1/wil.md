@@ -138,3 +138,4 @@ URI : /orders/{orderID}
 
 ## 과제 스크린샷
 
+![Whitelabel Error Page 스크린샷](./img/Whitelabel Error Page 스크린샷.png)
